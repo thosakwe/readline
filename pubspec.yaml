@@ -1,0 +1,8 @@
+name: readline
+version: 0.0.0
+description: Better support for reading text out of data streams, including support for console escape characters.
+author: Tobe O <thosakwe@gmail.com>
+dependencies:
+ charcode: ^1.0.0
+dev_dependencies:
+  test: ^0.12.0
